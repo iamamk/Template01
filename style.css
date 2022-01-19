@@ -1,0 +1,46 @@
+body{
+    background-image: url(images/t1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100px;
+   
+    color: rgb(235, 196, 106);
+}
+h2{
+    font-family: 'Noto Serif', serif;
+    padding: auto;
+    font-size: 50px;
+    color: hsl(0, 0%, 99%);
+    text-align: center;
+}
+p{
+    font-family: 'Noto Serif', serif;
+    padding: auto;
+    font-size: 20px;
+    color: hsl(0, 0%, 99%);
+    text-align: center;
+}
+
+#places{
+    border: blue;
+}
+
+.container{
+    padding: 100px 0;
+    text-align: center;
+}
+
+.testimonial-image{
+    width: 60%;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+

@@ -1,0 +1,24 @@
+body{
+    background-image: url(images/t1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h2{
+    font-family: 'Noto Serif', serif;
+    padding: auto;
+    font-size: 50px;
+    color: hsl(0, 0%, 99%);
+    text-align: center;
+}
+p{
+    font-family: 'Noto Serif', serif;
+    padding: auto;
+    font-size: 20px;
+    color: hsl(0, 0%, 99%);
+    text-align: center;
+}
+#form{
+    color: #fff;
+    line-height: 1.5rem;
+    margin: 50px 300px;
+}
